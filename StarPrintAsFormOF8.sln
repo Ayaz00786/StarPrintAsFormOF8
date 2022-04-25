@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarPrintAsFormOF8", "StarPrintAsFormOF8\StarPrintAsFormOF8.csproj", "{11F127B5-7D7D-4272-BC6C-65BEA8BFFF61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11F127B5-7D7D-4272-BC6C-65BEA8BFFF61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F127B5-7D7D-4272-BC6C-65BEA8BFFF61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F127B5-7D7D-4272-BC6C-65BEA8BFFF61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F127B5-7D7D-4272-BC6C-65BEA8BFFF61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C335626B-1A63-416A-9318-E5E34F490421}
+	EndGlobalSection
+EndGlobal
